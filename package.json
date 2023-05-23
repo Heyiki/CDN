@@ -1,6 +1,6 @@
 {
   "name": "heyiki-cdn",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "cdn file",
   "main": "index.js",
   "scripts": {
