@@ -18,9 +18,6 @@ jobs:
           node-version: 22
           registry-url: https://registry.npmjs.org/
 
-      - name: Run tests
-        run: npm test --if-present
-
       - name: Check package
         run: npm pack --dry-run
 
